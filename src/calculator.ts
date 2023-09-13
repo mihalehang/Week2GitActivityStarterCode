@@ -5,7 +5,4 @@ export class Calculator {
   public subtract(x: number, y: number) : number {
     return x - y;
   }
-  public mult(x: number, y: number) : number {
-    return x*y;
-  }
 };
